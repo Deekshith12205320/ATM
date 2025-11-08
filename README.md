@@ -105,21 +105,6 @@ Balance: ₹7000
    `java atm`  
 5. The program will automatically create a file named `accounts.txt` to store all account data.
 
----
-
-### 🌱 Future Enhancements  
-- Add 4-digit PIN authentication for each account  
-- Auto-generate unique account numbers  
-- Add user names and account details  
-- Include a transaction history feature  
-- Upgrade to database storage (e.g., MySQL)  
-
----
-
-### 👨‍💻 Author  
-**Deekshith G C**  
-📍 Punjab, India  
-💼 Aspiring Software Developer | Java & Full-Stack Enthusiast  
 
 ---
 
